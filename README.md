@@ -10,7 +10,7 @@
 If you use a version below 0.5 you should upgrade your library to version 0.5 or higher.
 There will be an error in the version before 0.5 in the calculation of the date after 2029.
 # About
-This is simple android calender converter for Convert Jalali date to Gregorian date.
+This is a simple android calendar converter for Convert Jalali date to Gregorian date.
 # Gradle
 ```groovy
 dependencies {
@@ -20,7 +20,7 @@ dependencies {
 # what's new
 ### version 0.8
 * Fix date formatting in year 1989 [#29](https://github.com/samanzamani/PersianDate/issues/29)
-* add three new method to get month name in `Afghan`,`Kurdish` and `Pashto` name and from version 0.8 you can use `X`,`C` and `E` to display month name in `Afghan`,`Kurdish` and `Pashto` in `PersianDateFormat` [#28](https://github.com/samanzamani/PersianDate/issues/28)
+* add three new methods to get month name in `Afghan`, `Kurdish`, and `Pashto` name and from version 0.8 you can use `X`, `C`, and `E` to display month name in `Afghan`, `Kurdish` and `Pashto` in `PersianDateFormat` [#28](https://github.com/samanzamani/PersianDate/issues/28)
 
 ### version 0.7
 * Fix addDate - addYear - addMonth methods [#20](https://github.com/samanzamani/PersianDate/issues/20)
